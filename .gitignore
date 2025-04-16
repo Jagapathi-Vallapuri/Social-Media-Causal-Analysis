@@ -1,0 +1,10 @@
+bin/
+lib/
+lib64/
+include/
+share/
+pyenv.cfg
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+.env
